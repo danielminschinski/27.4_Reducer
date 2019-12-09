@@ -1,0 +1,23 @@
+{
+  "name": "27.4_Reducer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "actions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielminschinski/27.4_Reducer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielminschinski/27.4_Reducer/issues"
+  },
+  "homepage": "https://github.com/danielminschinski/27.4_Reducer#readme",
+  "dependencies": {
+    "uuid": "^3.3.3"
+  }
+}
