@@ -14,7 +14,7 @@ const initialState = {
 };
 
 const app = combineReducers({
-	comments
+	comments,
 	users
 });
 
